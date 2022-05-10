@@ -1,3 +1,3 @@
 # Names
 
-Get a random Chinese names when you need.
+随机给一个中文名字。
